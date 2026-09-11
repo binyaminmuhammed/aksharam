@@ -1,0 +1,6 @@
+{
+  "name": "Aksharam",
+  "description": "Aksharam - Modern Malayalam Typing, Document Editor & Translation Utility with Inscript Keyboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
