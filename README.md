@@ -79,5 +79,4 @@ git push -u origin main
 
 ---
 
-## 📄 License
-MIT License. Created with Google AI Studio.
+
